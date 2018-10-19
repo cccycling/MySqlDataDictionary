@@ -1,1 +1,1 @@
-![Alt text](/relative/path/to/sample1.jpg?raw=true "Sample 1")
+![Alt text](/sample1.jpg?raw=true "Sample 1")
